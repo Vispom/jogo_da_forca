@@ -1,0 +1,49 @@
+body {
+    background: linear-gradient(#b0cbe4, #e4e4e4 40%, #b0cbe4);
+    background-size: 100% 100%;
+    height: 97vh;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#forca {
+    margin: 2% 0 0 23%;
+    background-color: #eee7e7;
+}
+
+#buttonJogar {
+    text-align: center;
+    padding: 20px 60px 20px 60px;
+    margin: 30px 0 0 580px;
+    display:block;
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    background-color: green;
+}
+
+#buttonJogar:hover{
+    background-color: #03a803;
+}
+
+#palavra {
+    margin: 30px 0 0 580px;
+    padding: 5px;
+}
+
+#dica {
+    margin: 30px 0 0 580px;
+    padding: 5px;
+    display: block;
+}
+
+#buttonAdicionar {
+    padding: 5px;
+    margin: 10px 0 0 630px;
+}
